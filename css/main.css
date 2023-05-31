@@ -50,7 +50,8 @@ h1 span {
 	margin-bottom: 42px;
 }
 
-.main .promo a{
+.main a,
+.promo a{
 	color: #1E2F40;
 	background-color: #FBB731;
 	border-radius: 5px;
